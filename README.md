@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saran-pariyar&label=Profile%20views&color=0e75b6&style=flat" alt="saran-pariyar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saran-pariyar" alt="saran-pariyar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saran-pariyar" alt="saran-pariyar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@saran_pariyar1" target="blank"><img src="https://img.shields.io/twitter/follow/@saran_pariyar1?logo=twitter&style=for-the-badge" alt="@saran_pariyar1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saran_pariyar1" target="blank"><img src="https://img.shields.io/twitter/follow/saran_pariyar1?logo=twitter&style=for-the-badge" alt="saran_pariyar1" /></a> </p>
 
 - 🔭 I’m currently working on [Shop Frontend](https://github.com/Saran-pariyar/pratima_sabji_pasal)
 
@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saran_pariyar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saran_pariyar1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saran pariyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saran pariyar" height="30" width="40" /></a>
-<a href="https://fb.com/saran pariyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saran pariyar" height="30" width="40" /></a>
+<a href="[https://twitter.com/saran_pariyar1](https://twitter.com/saran_pariyar1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saran_pariyar1" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/Saran Pariyar](https://www.linkedin.com/in/saran-pariyar-5078b5217/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saran pariyar" height="30" width="40" /></a>
+<a href="[https://fb.com/saran pariyar](https://www.facebook.com/saran.pariyar.50/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saran pariyar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
