@@ -1,4 +1,5 @@
 
+<center>
 <h1 align="center">Hi 👋, I'm Saran Pariyar</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
@@ -14,7 +15,6 @@
 
 - 💬 Ask me about **Reactjs, Javascript, HTML & CSS**
 
-- 📫 How to reach me **spariyar05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saran-pariyar&show_icons=true&locale=en&layout=compact" alt="saran-pariyar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-pariyar&show_icons=true&locale=en" alt="saran-pariyar" /></p>
+</center>
