@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-pariyar&show_icons=true&locale=en" alt="saran-pariyar" /></p>
 </center>
 <br /><br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saran-pariyar" alt="Saran-pariyar" /></p>
