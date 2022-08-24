@@ -9,9 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/saran_pariyar1" target="blank"><img src="https://img.shields.io/twitter/follow/saran_pariyar1?logo=twitter&style=for-the-badge" alt="saran_pariyar1" /></a> </p>
 
-- 🔭 I’m currently working on [Shop Frontend](https://github.com/Saran-pariyar/pratima_sabji_pasal)
-
-- 🌱 I’m currently learning **ReactJS & WordPress**
+  
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Reactjs, Javascript, HTML & CSS**
 
