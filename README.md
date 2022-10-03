@@ -1,11 +1,10 @@
 
 <center>
-<h1 align="center">Hi 👋 My name is Vanessa Pineiro Morales</h1>
+<h1 align="center">Hi 👋 My name is Saran Pariyar</h1>
 
 <h2 align="center">Front-End Developer</h2>
 <p align="center">
- 🧠  I'm learning JavaScript & React <br>
- 🤝  I'm open to collaborating!<br>
+ 🧠  I'm currently learning and working on ReactJS  <br>
 </p>
 
 <p align="center">
