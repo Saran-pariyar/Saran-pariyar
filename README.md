@@ -25,7 +25,7 @@
     /></a>
   </p>
 
-   🌱 I’m currently learning and working on **ReactJS** 
+   <p align="center"> 🌱 I’m currently learning and working on **ReactJS**  </p>
 <br>
 
   <h3 align="center">Connect with me:</h3>
@@ -158,7 +158,7 @@
     />
   </p>
   <br />
-  <p>
+  <p align="center">
     &nbsp;<img
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=saran-pariyar&show_icons=true&locale=en"
@@ -169,6 +169,7 @@
 <br />
 <p align="center">
   <img
+  align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Saran-pariyar"
     alt="Saran-pariyar"
   />
