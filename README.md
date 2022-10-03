@@ -1,12 +1,16 @@
 
 <center>
-<h1 align="center">Hi 👋, I'm Saran Pariyar</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="center">Hi 👋 My name is Vanessa Pineiro Morales</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saran-pariyar&label=Profile%20views&color=0e75b6&style=flat" alt="saran-pariyar" /> </p>
+<h2 align="center">Front-End Developer</h2>
+<p align="center">
+ 🧠  I'm learning JavaScript & React <br>
+ 🤝  I'm open to collaborating!<br>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saran-pariyar" alt="saran-pariyar" /></a> </p>
-
+<p align="center">
+<a href="https://www.twitter.com/officialnesdevs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/officialnesdevs?logo=twitter&style=for-the-badge&color=f3b5d4&labelColor=000000" /></a>
+</p>
 <p align="left"> <a href="https://twitter.com/saran_pariyar1" target="blank"><img src="https://img.shields.io/twitter/follow/saran_pariyar1?logo=twitter&style=for-the-badge" alt="saran_pariyar1" /></a> </p>
 
   
