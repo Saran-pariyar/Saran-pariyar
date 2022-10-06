@@ -173,7 +173,7 @@
   />
 </p>
 
-## snake eat my contribution 
+## My Contribution 
 ![snake gif](https://github.com/Saran-pariyar/Saran-pariyar/blob/output/github-contribution-grid-snake.gif)
 
 </center>
