@@ -1,5 +1,5 @@
-<center>
-  <h1 align="center">Hi 👋, I'm Saran Pariyar</h1>
+<center style="">
+  <h1 align="center" >Hi 👋, I'm Saran Pariyar</h1>
   <h3 align="center">A passionate frontend developer from Nepal</h3>
 
   <p align="center">
@@ -8,7 +8,6 @@
       alt="saran-pariyar"
     />
   </p>
-
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"
       ><img
@@ -165,7 +164,6 @@
       alt="saran-pariyar"
     />
   </p>
-</center>
 <br />
 <p align="center">
   <img
@@ -174,3 +172,5 @@
     alt="Saran-pariyar"
   />
 </p>
+
+</center>
