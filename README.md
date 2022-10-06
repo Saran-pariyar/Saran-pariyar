@@ -173,7 +173,8 @@
   />
 </p>
 
-## My Contribution 
+<p align="center">
+## My Contributions
 ![snake gif](https://github.com/Saran-pariyar/Saran-pariyar/blob/output/github-contribution-grid-snake.gif)
-
+</p>
 </center>
