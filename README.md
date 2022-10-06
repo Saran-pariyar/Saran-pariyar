@@ -172,5 +172,8 @@
     alt="Saran-pariyar"
   />
 </p>
-![Snake animation](https://github.com/Saran-pariyar/blob/output/github-contribution-grid-snake.svg)
+
+## snake eat my contribution 
+![snake gif](https://github.com/Saran-pariyar/Saran-pariyar/blob/output/github-contribution-grid-snake.gif)
+
 </center>
