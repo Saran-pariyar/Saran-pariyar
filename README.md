@@ -28,7 +28,6 @@
 <br>
 
   <h3 align="center">Connect with me:</h3>
-<br>
 
   <p align="center">
     <a
@@ -77,7 +76,6 @@
   </p>
 <br>
   <h3 align="center">Languages and Tools:</h3>
-<br>
   <p align="center">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img
@@ -172,7 +170,6 @@
     alt="Saran-pariyar"
   />
 </p>
-
 
 <h2 align="center">  My Contributions </h2>
 
