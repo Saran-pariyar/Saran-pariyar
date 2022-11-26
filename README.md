@@ -24,7 +24,7 @@
     /></a>
   </p>
 
-   <p align="center"> 🌱 I’m currently learning and working on **ReactJS**  </p>
+   <p align="center"> ⚡ Checkout my  <a href="saranpariyar.vercel.app" target="_blank" style="color:white; font-weight:bold;"> Portfolio Site</a>  </p>
 <br>
 
   <h3 align="center">Connect with me:</h3>
