@@ -17,7 +17,7 @@
   </p>
 
   <p align="center">
-    <a href="https://twitter.com/saran_pariyar1" target="blank"
+    <a href="https://twitter.com/saran_pariyar1" target="_blank"
       ><img
         src="https://img.shields.io/twitter/follow/saran_pariyar1?logo=twitter&style=for-the-badge"
         alt="saran_pariyar1"
@@ -31,8 +31,8 @@
 
   <p align="center">
     <a
-      href="[https://twitter.com/saran_pariyar1](https://twitter.com/saran_pariyar1)"
-      target="blank"
+      href="https://twitter.com/saran_pariyar1"
+      target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -42,8 +42,8 @@
     /></a>
     &nbsp;
     <a
-      href="[https://linkedin.com/in/Saran Pariyar](https://www.linkedin.com/in/saran-pariyar-5078b5217/)"
-      target="blank"
+      href="https://www.linkedin.com/in/Saran-pariyar/"
+      target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -53,8 +53,8 @@
     /></a>
     &nbsp;
     <a
-      href="[https://fb.com/saran pariyar](https://www.facebook.com/saran.pariyar.50/)"
-      target="blank"
+      href="https://www.facebook.com/saran.pariyar.50/"
+      target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -64,8 +64,8 @@
     /></a>
     &nbsp;
     <a
-      href="[https://instagram.com/saran_pariyar1](https://www.instagram.com/saran_pariyar1/)"
-      target="blank"
+      href="https://www.instagram.com/saran_pariyar1/"
+      target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
