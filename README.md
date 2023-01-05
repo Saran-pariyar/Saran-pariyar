@@ -145,6 +145,14 @@
         height="40"
       />
     </a>
+    <a href="https://typescript.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQydgBPB5L19c3G7nU-RTJAMXEcWCYfyvU-jskDjTyWVA&s"
+        alt="tailwind"
+        width="40"
+        height="40"
+      />
+    </a>
   </p>
   <br />
   <p align="center">
