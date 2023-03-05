@@ -8,13 +8,13 @@
       alt="saran-pariyar"
     />
   </p>
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"
       ><img
         src="https://github-profile-trophy.vercel.app/?username=Saran-pariyar"
         alt="saran-pariyar"
     /></a>
-  </p>
+  </p> -->
 
   <p align="center">
     <a href="https://twitter.com/saran_pariyar1" target="_blank"
@@ -155,13 +155,13 @@
     </a>
   </p>
   <br />
-  <p align="center">
+  <!-- <p align="center">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=saran-pariyar&show_icons=true&locale=en&layout=compact"
       alt="saran-pariyar"
     />
-  </p>
+  </p> -->
   <br />
   <p align="center">
     &nbsp;<img
@@ -179,8 +179,8 @@
   />
 </p>
 
-<h2 align="center">  My Contributions </h2>
+<!-- <h2 align="center">  My Contributions </h2> -->
 
-![snake gif](https://github.com/Saran-pariyar/Saran-pariyar/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Saran-pariyar/Saran-pariyar/blob/output/github-contribution-grid-snake.gif) -->
 
 </center>
