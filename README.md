@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Saran! <br>
-🔭 I’m currently working on <a target="_blank" href="https://devcalt.vercel.app/">DevCalt</a> <br>🌱 I’m currently learning NextJS & MongoDB<br>💬 Ask me about Javascript & ReactJS<br>
+🔭 I’m currently working on <a target="_blank" href="https://devcalt.vercel.app/">DevCalt</a> <br>🌱 I’m currently working with MERN Stack Development<br>💬 Ask me about Javascript & ReactJS<br>
 
 
 ## 🌐 Socials:
